@@ -1,53 +1,53 @@
 **Creating a new repository:**
 
-git init: Initialize a new Git repository in the current directory.
+1. git init: Initialize a new Git repository in the current directory.
 
 **Cloning an existing repository:**
 
-git clone <repository>: Clone an existing Git repository.
+2. git clone <repository>: Clone an existing Git repository.
   
 **Making changes:**
   
-git status: Show the status of the working directory and staging area.
+3. git status: Show the status of the working directory and staging area.
   
-git add <file>: Add a file or changes to the staging area.
+4. git add <file>: Add a file or changes to the staging area.
   
-git commit: Commit the staged changes to the local repository.
+5. git commit: Commit the staged changes to the local repository.
   
-git push: Push local changes to a remote repository.
+6. git push: Push local changes to a remote repository.
   
 **Branching and merging:**
   
-git branch: List all branches in the current repository.
+7. git branch: List all branches in the current repository.
   
-git branch <branch-name>: Create a new branch.
+8. git branch <branch-name>: Create a new branch.
   
-git checkout <branch-name>: Switch to a different branch.
+9. git checkout <branch-name>: Switch to a different branch.
   
-git merge <branch-name>: Merge the specified branch into the current branch.
+10. git merge <branch-name>: Merge the specified branch into the current branch.
   
 **Collaborating with others:**
   
-git remote: List all remote repositories.
+11. git remote: List all remote repositories.
   
-git remote add <remote-name> <remote-url>: Add a new remote repository.
+12. git remote add <remote-name> <remote-url>: Add a new remote repository.
   
-git pull: Pull changes from a remote repository.
+13. git pull: Pull changes from a remote repository.
   
-git fetch: Fetch changes from a remote repository.
+14. git fetch: Fetch changes from a remote repository.
   
 **Tagging:**
   
-git tag: List all tags in the current repository.
+15. git tag: List all tags in the current repository.
   
-git tag <tag-name>: Create a new tag.
+16. git tag <tag-name>: Create a new tag.
   
-git push --tags: Push all tags to the remote repository.
+17. git push --tags: Push all tags to the remote repository.
   
 **Configuring Git:**
   
-git config --global user.name <name>: Set your Git username.
+18. git config --global user.name <name>: Set your Git username.
   
-git config --global user.email <email>: Set your Git email.
+19. git config --global user.email <email>: Set your Git email.
   
-git config --list: List all Git configuration settings.
+20. git config --list: List all Git configuration settings.
