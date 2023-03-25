@@ -1,5 +1,7 @@
 Creating a new repository
+
 git init: Initialize a new Git repository in the current directory.
+
 Cloning an existing repository
 git clone <repository>: Clone an existing Git repository.
 Making changes
